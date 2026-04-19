@@ -5,6 +5,8 @@ public class mad_libs_game {
     public static void main(String[] args) {
         System.out.println("");
 
+        // Madlibs Game
+
         Scanner scanner = new Scanner(System.in);
 
         String noun1;
